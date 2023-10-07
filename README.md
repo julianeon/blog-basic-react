@@ -1,6 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## About
+
+This is a very basic React blog.
+
+![basic blog](./public/blog_basic_react.png)
 
 In the project directory, you can run:
 
