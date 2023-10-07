@@ -34,7 +34,7 @@ const Google = () => (
     <Block>
       <h1>Google</h1>
       <p>This is Google. It's a search engine started by Sergey Brin and Larry Page.</p>
-      <p>PageRank is the search algorithm that started it all. Today it's a multibillion dollar company.</p>      
+      <p>Starting with PageRank, Google has become a multibillion dollar company.</p>      
     </Block>
 )
 
@@ -42,7 +42,7 @@ const Amazon = () => (
     <Block>
     <h1>Amazon</h1>
       <p>This is Amazon. It started off as an online bookstore.</p>
-      <p>Amazon is the owner of AWS, the host this tutorial is targeting.</p>
+      <p>Amazon is the owner of AWS, the provider I use the most.</p>
     </Block>
 )
 
@@ -57,7 +57,7 @@ const FaceBook = () => (
 const Apple = () => (
     <Block>
     <h1>Apple</h1>
-      <p>This is Apple. It's CEO is Tim Cook.</p>
+      <p>This is Apple. It was started by Steve Jobs and Steve Wozniak.</p>
       <p>Apple manufactures the iPhone and the Mac.</p>      
     </Block>
 )
