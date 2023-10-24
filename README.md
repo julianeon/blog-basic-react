@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## About
 
-This is a very basic React blog.
+This is a very simple React blog, demonstrating how to make one.
 
 I wrote about it on [JavaScriptPage](https://javascriptpage.com/building-simple-blog-using-react).
 
